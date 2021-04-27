@@ -1,0 +1,15 @@
+--------------
+File Structure
+--------------
+
+zendesk folder:
+-dataInput (stores information of the lot size and movement of vehicles(exit/enter))
+-main.py (main program + comments)
+-readme
+-record (stores the information of vehicles that entered the carpark)
+
+To Run the Program:
+
+1) Open the terminal
+2) Cd to zendesk folder
+2) Run python 'main.py'
